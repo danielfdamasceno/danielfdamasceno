@@ -6,7 +6,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p alinhar="esquerda">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-ferreira-damasceno-10066857/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/daniel-ferreira-damasceno-10066857/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-ferreira-damasceno-10066857/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/daniel-ferreira-damasceno-10066857/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
