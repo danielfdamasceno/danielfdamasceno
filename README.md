@@ -5,7 +5,7 @@ A Qualidade não está na tecnologia. A Qualidade está nas pessoas que criam a 
 - 🔭 &nbsp;Sou um apaixonado por tecnologia. E estou trabalhando em um projeto bem legal de testes mobile;
 - 🌱 &nbsp;Atualmente estou aprendendo RobotFramework, Playwright, JS e AWS;
 - 👨‍💻 &nbsp;Podem me perguntar qualquer coisa relacionado a Quality Assurance;
-- ⚡ &nbsp;Ah esqueci de falar, eu :heart: :dog and :heart: :soccer:
+- ⚡ &nbsp;Ah esqueci de falar, eu :heart: :dog: e :heart: :soccer:
 <br>
 
 <h3 align="left">Conecte-se comigo:</h3>
