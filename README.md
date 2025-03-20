@@ -1,9 +1,9 @@
 ### Hi PessoAll <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 A Qualidade não está na tecnologia. A Qualidade está nas pessoas que criam a tecnologia :computer:
 
-
-- 🔭 &nbsp;Sou um apaixonado por tecnologia. E estou trabalhando em um projeto bem legal de testes mobile;
-- 🌱 &nbsp;Atualmente estou aprendendo RobotFramework, Playwright, JS e AWS;
+- 📌 &nbsp;Sou carioca da gema;
+- 🔴⚫ &nbsp;Flamenguista;
+- 🤖 &nbsp;Sou um apaixonado e entusiasta por tecnologia;
 - 👨‍💻 &nbsp;Podem me perguntar qualquer coisa relacionado a Quality Assurance;
 - ⚡ &nbsp;Ah esqueci de falar, eu :heart: :dog: e :heart: :soccer:
 <br>
